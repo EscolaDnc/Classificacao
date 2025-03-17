@@ -2,6 +2,11 @@
 Como os datasets utilizados são grandes, eles não foram incluídos diretamente no repositório. Em vez disso, os alunos devem baixá-los manualmente das fontes indicadas abaixo.
 
 **📥 Como Obter os Datasets**
+Antes de acessar os links do Kaggle, os datasets podem ser baixados diretamente pelo Google Drive no seguinte link:
+
+🔗 Box (Todos os Datasets): [https://app.box.com/folder/312132210338]
+
+Caso prefira baixar diretamente do Kaggle, siga as instruções abaixo:
 
 **🎵 1. Spotify Hits**
 🔗 **Link**: https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset
