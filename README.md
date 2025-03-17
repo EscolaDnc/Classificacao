@@ -1,8 +1,9 @@
 ### 📊 Projeto de Classificação 
 Como os datasets utilizados são grandes, eles não foram incluídos diretamente no repositório. Em vez disso, os alunos devem baixá-los manualmente das fontes indicadas abaixo.
-**📥 Como Obter os Datasets**
-🎵 1. Spotify Hits
 
+**📥 Como Obter os Datasets**
+
+**🎵 1. Spotify Hits**
 🔗 **Link**: https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset
 
 Acesse o link acima e procure pelo dataset "Spotify Hits".
