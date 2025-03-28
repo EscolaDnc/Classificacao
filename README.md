@@ -4,7 +4,7 @@ Como os datasets utilizados são grandes, eles não foram incluídos diretamente
 **📥 Como Obter os Datasets**
 Antes de acessar os links do Kaggle, os datasets podem ser baixados diretamente pelo Google Drive no seguinte link:
 
-🔗 Box (Todos os Datasets): [https://app.box.com/folder/312132210338]
+🔗 Box (Todos os Datasets): [https://app.box.com/s/xjqx8ttobif7w5xigqk8b0xyhj68h67d]
 
 Caso prefira baixar diretamente do Kaggle, siga as instruções abaixo:
 
